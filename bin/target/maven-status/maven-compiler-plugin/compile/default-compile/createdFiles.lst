@@ -1,0 +1,13 @@
+allapis\springbootsoap\com\AddEmployeeResponse.class
+allapis\springbootsoap\com\ServiceStatus.class
+allapis\springbootsoap\com\UpdateEmployeeResponse.class
+allapis\springbootsoap\com\EmployeeInfo.class
+allapis\springbootsoap\com\UpdateEmployeeRequest.class
+allapis\springbootsoap\com\ObjectFactory.class
+allapis\springbootsoap\com\AddEmployeeRequest.class
+allapis\springbootsoap\com\GetEmployeeResponse.class
+com\springbootsoap\SpringBootSoapWebServiceDemoApplication.class
+allapis\springbootsoap\com\DeleteEmployeeResponse.class
+allapis\springbootsoap\com\DeleteEmployeeRequest.class
+allapis\springbootsoap\com\package-info.class
+allapis\springbootsoap\com\GetEmployeeByIdRequest.class
